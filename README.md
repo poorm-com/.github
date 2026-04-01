@@ -10,7 +10,7 @@
 
 현재 운영 및 관리 중인 프로젝트들입니다.
 
-* **🏠 [poorm-com](https://github.com/poorm-com/poorm-com)** : 현재 보고 계신 조직의 메인 프로필 및 공통 리소스 관리 리포지토리.
+* **🏠 [.github](https://github.com/poorm-com/.github)** : 현재 보고 계신 조직의 메인 프로필 및 공통 리소스 관리 리포지토리.
 * **📺 [PoormCast](https://github.com/poorm-com/PoormCast)** : 스마트 TV가 없는 환경을 위한 오픈소스 스트리밍 솔루션 (Flutter 기반).
 * **🎨 [Poorm-Source](https://github.com/poorm-com/Poorm-Source)** : 블로그의 커스텀 테마(Source theme기반) 소스 코드.
 
